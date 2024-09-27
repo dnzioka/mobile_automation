@@ -10,6 +10,7 @@
 .vscode/
 *.iml
 .idea/
+/.vscode/
 
 # Ignore Maven specific files
 .mvn/
