@@ -69,49 +69,63 @@ Install dependencies:
 1. mvn clean install
 
 Configure your environment:
-Set the Android SDK path in your environment variables.
-Configure your emulator or real device for testing.
+
+1. Set the Android SDK path in your environment variables.
+2. Configure your emulator or real device for testing.
 
 Set up Appium:
-Start the Appium server using the desktop app or CLI.
-appium
+
+1. Start the Appium server using the desktop app or CLI.
+
+- appium
 
 ## Running Tests
 
 You can run the tests using Maven profiles to execute specific test suites:
-Run the default test suite:
-mvn clean test
-Run a specific test profile (e.g., accounts):
-mvn clean test -P accounts
 
-Generate reports after the test run:
+- Run the default test suite:
+- - mvn clean test
+    Run a specific test profile (e.g., accounts):
+- - mvn clean test -P accounts
+
+## Generate reports after the test run:
+
 Reports are automatically generated and can be found in the /Reports folder.
 
-Folder Structure
-Here is a quick look at the folder structure:
-├── Reports/ # Test reports generated after execution
-├── resources/ # Resources like test data and APK files
-│ ├── apk/ # APK files for Android testing
-├── src/  
-│ ├── main/ # Core Java files, Page Object classes
-│ ├── test/ # Test classes and suites
-│ └── TestNGSuites/
-│ └── accounts.xml # Test suite XML files
-├── .gitignore # Files to ignore in Git
-├── pom.xml # Maven build configuration
-└── README.md # Project documentation
+## Folder Structure
 
-Contributing
-Fork the repository.
-Create a new branch:
-git checkout -b feature-branch
-Commit your changes:
-git commit -m "Add feature XYZ"
-Push to the branch:
-git push origin feature-branch
-Create a Pull Request.
+- Here is a quick look at the folder structure:
+  ├── Reports/ # Test reports generated after execution
+  ├── resources/ # Resources like test data and APK files
+  │ ├── apk/ # APK files for Android testing
+  ├── src/
+  │ ├── main/ # Core Java files, Page Object classes
+  │ ├── test/ # Test classes and suites
+  │ └── TestNGSuites/ # Test suite XML files
+  │ └── accounts.xml  
+  ├── .gitignore # Files to ignore in Git
+  ├── pom.xml # Maven build configuration
+  └── README.md # Project documentation
 
-Support
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch:
+
+- git checkout -b feature-branch
+
+3. Commit your changes:
+
+- git commit -m "Add feature XYZ"
+
+4. Push to the branch:
+
+- git push origin feature-branch
+
+5. Create a Pull Request.
+
+## Support
+
 For any queries or help, feel free to reach out by opening an issue on GitHub.
 
 Happy Testing!
