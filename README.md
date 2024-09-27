@@ -124,7 +124,6 @@ Here is a quick look at the folder structure:
 
 For any queries or help, feel free to reach out by opening an issue on GitHub.
 
-|------------------|------------------------------|
 | 🏷️ **Title** | QA Engineer |
 | 📛 **Name** | Dominic Malile |
 | 📱 **Phone** | +254710961016 |
