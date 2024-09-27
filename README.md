@@ -124,16 +124,11 @@ Here is a quick look at the folder structure:
 
 For any queries or help, feel free to reach out by opening an issue on GitHub.
 
-```
-|  |  |
 |------------------|------------------------------|
-| 🏷️ **Title**      | QA Engineer                  |
-| 📛 **Name**       | Dominic Malile               |
-| 📱 **Phone**      | +254710961016                |
-```
+| 🏷️ **Title** | QA Engineer |
+| 📛 **Name** | Dominic Malile |
+| 📱 **Phone** | +254710961016 |
 
 | 🔗 **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/dominicmalile/) |
-
-| LinkedIn Profile | [Connect with me on LinkedIn](https://www.linkedin.com/in/dominicmalile/) |
 
 Happy Testing!
