@@ -129,7 +129,8 @@ For any queries or help, feel free to reach out by opening an issue on GitHub.
 |-------|--------------------------------|
 | Title | QA Engineer                    |
 | Name  | Dominic Malile                 |
-| LinkedIn Profile | [Connect with me on LinkedIn](https://www.linkedin.com/in/dominicmalile/) |
 ```
+
+| LinkedIn Profile | [Connect with me on LinkedIn](https://www.linkedin.com/in/dominicmalile/) |
 
 Happy Testing!
