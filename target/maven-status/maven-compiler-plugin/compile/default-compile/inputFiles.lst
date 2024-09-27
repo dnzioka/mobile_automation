@@ -1,0 +1,8 @@
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/common/BaseTest.java
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/Android/PageObjects/LoginPage.java
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/common/WaitUtil.java
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/Android/PageObjects/AccountsPage.java
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/Android/PageObjects/NavigationPage.java
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/common/JsonReader.java
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/common/ExtentManager.java
+/Users/dominicmalile/QAMobile/appiumframework/src/main/java/dominic/common/Listeners.java
