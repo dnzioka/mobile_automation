@@ -2,6 +2,18 @@
 
 Welcome to the **Appium Automation Framework**! This project is designed to help QA engineers automate mobile application testing using Appium, TestNG, and Maven. It offers a scalable and reusable structure, making mobile test automation more efficient and maintainable.
 
+## Support
+
+For any queries or help, feel free to reach out by opening an issue on GitHub.
+
+| 🏷️ **Title** | QA Engineer |
+| 📛 **Name** | Dominic Malile |
+| 📱 **Phone** | +254710961016 |
+
+| 🔗 **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/dominicmalile/) |
+
+Happy Testing!
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -119,15 +131,3 @@ Here is a quick look at the folder structure:
 4. Push to the branch:
    `git push origin feature-branch`
 5. Create a Pull Request.
-
-## Support
-
-For any queries or help, feel free to reach out by opening an issue on GitHub.
-
-| 🏷️ **Title** | QA Engineer |
-| 📛 **Name** | Dominic Malile |
-| 📱 **Phone** | +254710961016 |
-
-| 🔗 **LinkedIn** | [Connect with me on LinkedIn](https://www.linkedin.com/in/dominicmalile/) |
-
-Happy Testing!
