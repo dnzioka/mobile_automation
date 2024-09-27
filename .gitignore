@@ -1,0 +1,25 @@
+# Ignore APK files
+*.apk
+/resources/apk/modulr.apk
+
+# Ignore build files
+/build/
+/target/
+
+# Ignore IDE files (VSCode and Eclipse/IntelliJ)
+.vscode/
+*.iml
+.idea/
+
+# Ignore Maven specific files
+.mvn/
+!pom.xml
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
