@@ -94,6 +94,7 @@ Reports are automatically generated and can be found in the /Reports folder.
 
 ## Folder Structure
 
+```
 - Here is a quick look at the folder structure:
   ├── Reports/ # Test reports generated after execution
   ├── resources/ # Resources like test data and APK files
@@ -102,10 +103,11 @@ Reports are automatically generated and can be found in the /Reports folder.
   │ ├── main/ # Core Java files, Page Object classes
   │ ├── test/ # Test classes and suites
   │ └── TestNGSuites/ # Test suite XML files
-  │ └── accounts.xml  
+  │ └── accounts.xml
   ├── .gitignore # Files to ignore in Git
   ├── pom.xml # Maven build configuration
   └── README.md # Project documentation
+```
 
 ## Contributing
 
