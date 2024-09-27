@@ -61,8 +61,8 @@ mvn -version
 
 Clone the Repository:
 
-`git clone https://github.com/dnzioka/mobile_automation.git`
-`cd mobile_automation`
+- `git clone https://github.com/dnzioka/mobile_automation.git`
+- `cd mobile_automation`
 
 Install dependencies:
 
@@ -76,24 +76,24 @@ Configure your environment:
 Set up Appium:
 
 1. Start the Appium server using the desktop app or CLI.
-   `appium`
+   - - `appium`
 
 ## Running Tests
 
 You can run the tests using Maven profiles to execute specific test suites:
 
-Run the default test suite:
-`mvn clean test`
-Run a specific test profile (e.g., accounts):
-`mvn clean test -P accounts`
+- Run the default test suite:
+  `mvn clean test`
+- Run a specific test profile (e.g., accounts):
+  `mvn clean test -P accounts`
 
 ## Generate reports after the test run:
 
-Reports are automatically generated and can be found in the /Reports folder.
+Reports are automatically generated and can be found in the `/Reports folder`.
 
 ## Folder Structure
 
-- Here is a quick look at the folder structure:
+Here is a quick look at the folder structure:
 
 ```
   ├── Reports/ # Test reports generated after execution
@@ -113,7 +113,7 @@ Reports are automatically generated and can be found in the /Reports folder.
 
 1. Fork the repository.
 2. Create a new branch:
-   ``git checkout -b feature-branch```
+   `git checkout -b feature-branch`
 3. Commit your changes:
    `git commit -m "Add feature XYZ"`
 4. Push to the branch:
