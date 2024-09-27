@@ -9,7 +9,7 @@
 
     <test name="Appium Tests">
         <classes>
-            <class name="dominic.tests.AppiumTest"/>
+            <class name="dominic.tests.AccountsModule"/>
         </classes>
     </test>
 </suite>
