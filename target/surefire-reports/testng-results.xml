@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-27T11:51:06 EAT" name="Appium Test Suite" finished-at="2024-09-27T11:52:30 EAT" duration-ms="84199">
+  <suite started-at="2024-09-27T16:24:53 EAT" name="Appium Test Suite" finished-at="2024-09-27T16:25:50 EAT" duration-ms="56403">
     <groups>
     </groups>
-    <test started-at="2024-09-27T11:51:06 EAT" name="Appium Tests" finished-at="2024-09-27T11:52:30 EAT" duration-ms="84199">
-      <class name="dominic.tests.AppiumTest">
-        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:dominic.tests.AppiumTest@63f259c3]" started-at="2024-09-27T11:51:06 EAT" name="ConfigureAppium" finished-at="2024-09-27T11:51:35 EAT" duration-ms="28819" status="PASS">
+    <test started-at="2024-09-27T16:24:53 EAT" name="Appium Tests" finished-at="2024-09-27T16:25:50 EAT" duration-ms="56403">
+      <class name="dominic.tests.AccountsModule">
+        <test-method is-config="true" signature="ConfigureAppium()[pri:0, instance:dominic.tests.AccountsModule@63f259c3]" started-at="2024-09-27T16:24:53 EAT" name="ConfigureAppium" finished-at="2024-09-27T16:25:10 EAT" duration-ms="17104" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ConfigureAppium -->
-        <test-method signature="VerifyEuroAccountCreation()[pri:0, instance:dominic.tests.AppiumTest@63f259c3]" started-at="2024-09-27T11:51:35 EAT" name="VerifyEuroAccountCreation" finished-at="2024-09-27T11:52:25 EAT" duration-ms="50167" status="PASS">
+        <test-method signature="VerifyEuroAccountCreation()[pri:0, instance:dominic.tests.AccountsModule@63f259c3]" started-at="2024-09-27T16:25:10 EAT" name="VerifyEuroAccountCreation" finished-at="2024-09-27T16:25:43 EAT" duration-ms="33175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyEuroAccountCreation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:dominic.tests.AppiumTest@63f259c3]" started-at="2024-09-27T11:52:25 EAT" name="tearDown" finished-at="2024-09-27T11:52:30 EAT" duration-ms="5134" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dominic.tests.AccountsModule@63f259c3]" started-at="2024-09-27T16:25:43 EAT" name="tearDown" finished-at="2024-09-27T16:25:50 EAT" duration-ms="6074" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- dominic.tests.AppiumTest -->
+      </class> <!-- dominic.tests.AccountsModule -->
     </test> <!-- Appium Tests -->
   </suite> <!-- Appium Test Suite -->
 </testng-results>
